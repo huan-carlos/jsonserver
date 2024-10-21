@@ -1,21 +1,3 @@
 {
-   "nome":"Huan Carlos",
-   "idade":20,
-   "notas":{
-      "n1":5,
-      "n2":7,
-      "n3":10
-   },
-   "frequencia":[
-      1,
-      1,
-      0,
-      1,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1
-   ]
+   "nome": "Huan Carlos"
 }

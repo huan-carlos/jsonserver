@@ -1,18 +1,20 @@
-[
-   {
-      "nome": "Huan Carlos",
-      "idade": 20
-   },
-   {
-      "nome": "Janaina Freitas",
-      "idade": 23
-   },
-   {
-      "nome": "Arivane Saraiva",
-      "idade": 18
-   },
-   {
-      "nome": "Lidia Cantuaria",
-      "idade": 32
-   }
-]
+{
+   [
+      {
+         "nome": "Huan Carlos",
+         "idade": 20
+      },
+      {
+         "nome": "Janaina Freitas",
+         "idade": 23
+      },
+      {
+         "nome": "Arivane Saraiva",
+         "idade": 18
+      },
+      {
+         "nome": "Lidia Cantuaria",
+         "idade": 32
+      }
+   ]
+}
